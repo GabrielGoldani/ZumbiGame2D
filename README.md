@@ -18,9 +18,9 @@ https://goldani.itch.io/project-zombizoid
 ## Some photos of the current project
 
 <p float="left">
-
  <img src="https://github.com/GabrielGoldani/ZumbiGame2D/assets/100892861/7048c563-43dc-4495-bc89-e32d20c68f2d" width="500"/>
- 
- <img src="https://github.com/GabrielGoldani/ZumbiGame2D/assets/100892861/7048c563-43dc-4495-bc89-e32d20c68f2d" width="500"/>
+</p>
 
+<p float="left">
+ <img src="https://github.com/GabrielGoldani/ZumbiGame2D/assets/100892861/5b787ea4-535c-47a6-941b-c710a59d6a10" width="500"/>
  </p>
